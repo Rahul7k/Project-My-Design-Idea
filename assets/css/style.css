@@ -1,3 +1,7 @@
+body{
+  font-family: 'Exo 2', sans-serif;
+}
+
 #carouselExampleIndicators {
   position: relative;
   z-index: 1;
